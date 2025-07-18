@@ -115,7 +115,7 @@ const SignupPage = () => {
                   <span className='loading loading-spinner loading-xs'></span>
                   Loading...
                   </>
-                ) : ("Create Account")};
+                ) : ("Create Account")}
               </button>
 
               <div className='text-center mt-4'>
