@@ -18,7 +18,7 @@ const SignupPage = () => {
   //   onSuccess: ()=> queryClient.invalidateQueries({ queryKey: ["authUser"]}),
   // });
 
-  const {isPending, error, mutate} = useSignUp();
+  const {isPending, error, signupMutation} = useSignUp();
 
   const handleSignup = (e) => {
     e.preventDefault();
