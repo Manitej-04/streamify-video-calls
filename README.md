@@ -9,7 +9,9 @@ A real-time video conferencing and chat web application built using React and St
 - 🌐 LAN-based cross-device access using `vite --host`
 
 ## 🛠️ Tech Stack
+- **Backend**: Express and NodeJs
 - **Frontend**: React, Vite, Tailwind CSS
+- **Database**: MongoDB
 - **State Management**: Zustand
 - **Streaming/Chat SDK**: [Stream Video](https://getstream.io/video/) and [Stream Chat](https://getstream.io/chat/)
 - **Routing**: React Router v6
