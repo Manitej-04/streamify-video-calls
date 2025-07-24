@@ -15,15 +15,31 @@ A real-time video conferencing and chat web application built using React and St
 - **State Management**: Zustand
 - **Streaming/Chat SDK**: [Stream Video](https://getstream.io/video/) and [Stream Chat](https://getstream.io/chat/)
 - **Routing**: React Router v6
-- **Deployment**: Localhost with `vite`, responsive on desktop and mobile
 
 ## 📷 Screenshots
-
 ### 🏠 Home Page
 <img src="https://github.com/Manitej-04/streamify-video-calls/blob/main/pics/HomePage.png?raw=true" alt="Home Page" width="600"/>
 
 ### 💬 Chat Page
 <img src="https://github.com/Manitej-04/streamify-video-calls/blob/main/pics/Chatpage.png?raw=true" alt="Chat Page" width="600"/>
+
+## 🚀 Deployment
+
+This project is deployed on [Render]([https://render.com/](https://streamify-video-calls-h4ml.onrender.com/)), a free hosting service for full-stack apps.
+
+### 🔧 Steps for Deployment on Render:
+
+1. Push your project to GitHub.
+2. Go to [Render Dashboard](https://dashboard.render.com/) and click **New > Web Service**.
+3. Connect your GitHub repo and select the branch.
+4. Set your build and start commands:
+5. Add environment variables (from your `.env` file):
+6. Click **Deploy** and wait for the build to complete.
+7. Once deployed, you'll get a unique Render URL (e.g., `https://streamify-video-calls.onrender.com`).
+
+### 🔗 Live Demo  
+👉 [https://streamify-video-calls.onrender.com](https://streamify-video-calls.onrender.com)
+
 
 ## 🧪 Getting Started
 
