@@ -16,8 +16,12 @@ A real-time video conferencing and chat web application built using React and St
 - **Deployment**: Localhost with `vite`, responsive on desktop and mobile
 
 ## 📷 Screenshots
-<img src="C:\Users\Manitej\Pictures\Screenshots\Screenshot 2025-07-24 100223.png" alt="Call UI" width="600"/>
-<img src="[screenshots/chat-ui.png](https://github.com/Manitej-04/streamify-video-calls/blob/main/pics/Chatpage.png)" alt="Chat UI" width="600"/>
+
+### 🏠 Home Page
+<img src="https://github.com/Manitej-04/streamify-video-calls/blob/main/pics/HomePage.png?raw=true" alt="Home Page" width="600"/>
+
+### 💬 Chat Page
+<img src="https://github.com/Manitej-04/streamify-video-calls/blob/main/pics/Chatpage.png?raw=true" alt="Chat Page" width="600"/>
 
 ## 🧪 Getting Started
 
