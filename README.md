@@ -16,7 +16,7 @@ A real-time video conferencing and chat web application built using React and St
 - **Deployment**: Localhost with `vite`, responsive on desktop and mobile
 
 ## 📷 Screenshots
-<img src="screenshots/call-preview.png" alt="Call UI" width="600"/>
+<img src=""C:\Users\Manitej\Pictures\Screenshots\Screenshot 2025-07-24 100223.png"" alt="Call UI" width="600"/>
 <img src="screenshots/chat-ui.png" alt="Chat UI" width="600"/>
 
 ## 🧪 Getting Started
