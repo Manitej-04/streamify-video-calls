@@ -38,7 +38,7 @@ This project is deployed on [Render]([https://render.com/](https://streamify-vid
 7. Once deployed, you'll get a unique Render URL (e.g., `https://streamify-video-calls.onrender.com`).
 
 ### 🔗 Live Demo  
-👉 [https://streamify-video-calls.onrender.com](https://streamify-video-calls.onrender.com)
+👉 [https://streamify-video-calls.onrender.com]([https://streamify-video-calls.onrender.com](https://streamify-video-calls-h4ml.onrender.com/login))
 
 
 ## 🧪 Getting Started
